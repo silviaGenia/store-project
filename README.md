@@ -1,11 +1,5 @@
 # CURSO: FullStack NEXTJS & REACTJS
 
-#### :copyright: Por Gary Guzmán [GitHub](https://github.com/garyDav)
-
-###### [:page_with_curl: Todos](https://garydav.github.io/blogs-course) mis resúmenes por [@garyDav](https://github.com/garyDav)
-
-> :spiral_calendar: Published on April 28, 2025
-
 ---
 
 ### Introducción
